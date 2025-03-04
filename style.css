@@ -451,7 +451,7 @@ em {font-style:normal;}
 
 
 /*-- body bkg ---*/
-body {background:
+body {
 linear-gradient(45deg, #f1f1f1 45px, transparent 45px)64px 64px,
 linear-gradient(45deg, #f1f1f1 45px, transparent 45px,transparent 91px, #e5e5e5 91px, #e5e5e5 135px, transparent 135px),
 linear-gradient(-45deg, #f1f1f1 23px, transparent 23px, transparent 68px,#f1f1f1 68px,#f1f1f1 113px,transparent 113px,transparent 158px,#f1f1f1 158px);
